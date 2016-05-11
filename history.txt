@@ -1,0 +1,8 @@
+#all command list
+
+aliasSH  --  des: alias_a_sh_file
+helpJsClass  --  des: show_JS_Class_template_file
+gitBranch.sh  --  des: 
+gitBranch  --  des: 
+exportPATH  --  des: 
+exportPATH.sh  --  des: 

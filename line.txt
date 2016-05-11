@@ -1,0 +1,1 @@
+alias exportPATH.sh="sh $SHELL/"exportPATH
